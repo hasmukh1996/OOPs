@@ -26,7 +26,7 @@ class Percentage:
         self.Science = Science
         self.English = English
 
-Result = SSC("Hasmukh",90,85,90,31)
+Result = SSC("Hasmukh")
 
 
 print(Hasmukh)
